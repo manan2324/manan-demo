@@ -1,2 +1,4 @@
 # manan-demo
-This is a demo repository.
+This is a first git repository.
+<br>
+Author - Manan Patel
